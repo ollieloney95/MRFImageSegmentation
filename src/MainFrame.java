@@ -18,7 +18,7 @@ import javax.swing.*;
 import javax.swing.event.*;
 
 public class MainFrame{
-	// updynhgfnfgfgnfgnf
+	
 	File inputImageFile;
 	File outputImageFile;
 	File outputImageLocation;
