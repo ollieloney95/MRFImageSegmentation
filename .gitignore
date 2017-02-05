@@ -4,8 +4,8 @@
 .settings/
 bin/
 test/
-.classpath/
-.project/
+.classpath
+.project
 
 
 # Mobile Tools for Java (J2ME)
