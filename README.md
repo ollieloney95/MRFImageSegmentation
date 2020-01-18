@@ -9,6 +9,6 @@ The executable JAR file "MRFImageSegmentation.JAR" presents a user interface to 
 ## Contributors
 
 All code written by Oliver Loney,
-ollie.loney@gmail.com,
+ollie.loney95@gmail.com,
 r.o.loney@durham.ac.uk
 
