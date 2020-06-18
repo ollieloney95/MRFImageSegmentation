@@ -1,3 +1,5 @@
+Note I wrote this code a fairly long time ago in a dissertation that was heavy on maths and light on coding,  it is certainly not very efficient or well written.  
+
 ## Synopsis
 
 The code-base accompanying my Durham University, Mathematics III, project "Image segmentation with Markov Random Fields".  
