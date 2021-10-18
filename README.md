@@ -1,4 +1,4 @@
-Note I wrote this code a fairly long time ago in a dissertation that was heavy on maths and light on coding,  it is certainly not very efficient or well written.  
+Note I wrote this code a fairly long time ago in a dissertation that was heavy on maths and light on coding,  it is certainly not very efficient or well written, I've learnt a lot since this.  
 
 ## Synopsis
 
